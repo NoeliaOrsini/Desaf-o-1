@@ -17,7 +17,7 @@ if (numeroCinco == stringCinco) {  // Comparación de valor, sin importar el tip
 if (numeroCincuenta === stringCincuenta) {  // Comparación de valor y tipo
   console.log('Las variables numeroCincuenta y stringCincuenta tienen el mismo valor y el mismo tipo');
 } else {
-  console.log('Las variables numeroQuince y stringQuince no tienen el mismo tipo');
+  console.log('Las variables numeroCincuenta y stringCinceunta no tienen el mismo tipo');
 }
 
 if (numeroQuince == stringQuince) {  // Comparación de valor, sin importar el tipo
